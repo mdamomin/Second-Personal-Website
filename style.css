@@ -1,0 +1,96 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+.top_section{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+section{
+    height: 600px;
+    
+}
+.all_div{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+  
+    
+}
+.all_div img{
+    width: 100%;
+}
+h2{
+    color: #EC4C7A;
+    font-weight: bold;
+}
+p{
+    color: #C5C5C5;
+}
+.imp_link{
+    text-decoration: none;
+    background: #EC4F91;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 5px;
+   
+}
+.biography_section{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+.work_section{
+    padding-top: 40px;
+    background-image: url(images/latest-work-bg.png);
+    background-size: cover;
+    background-position: left;
+}
+.work_section h1{
+    text-align: center;
+}
+.work_div{
+    width: 30%;
+    float: left;
+    padding-left: 30px;
+    
+}
+.work_div img{
+    width: 100%;
+    
+}
+.work_div_container{
+    width: 100%;
+    height: 400px;
+    padding: 25px 0px;
+}
+.client_section{
+    text-align: center;
+    background-image: url(images/client-bg.png);
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.ceo_div{
+    padding: 20px 0px;
+}
+#ceo_name{
+    font-weight: bold;
+    color: black;
+    margin-bottom: -12px;
+}
+.email_div{
+    padding: 8px 0px;
+    width: 45%;
+    margin: auto;
+    background: #EC4F8F;
+    border-radius: 5px;
+    margin-top: 58px;
+}
+.footer p{
+    text-align: center;
+}
